@@ -1,0 +1,10 @@
+
+/.idea/
+/storage/
+/*.iml
+.idea
+*.iml
+
+/log/
+/out/
+./gitignore
